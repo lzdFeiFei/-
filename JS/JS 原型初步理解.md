@@ -100,8 +100,14 @@ console.log(person.age)  // 12
 console.log(person.job)  // manong
 ```
 
+![img](http://mollypages.org/tutorials/jsobj.jpg)
+
+
+
 #### 参考资料
 
 https://262.ecma-international.org/6.0/#sec-terms-and-definitions-object
 
 https://262.ecma-international.org/5.1/#sec-15.3
+
+[Javascript Object Hierarchy (mollypages.org)](http://mollypages.org/tutorials/js.mp)
